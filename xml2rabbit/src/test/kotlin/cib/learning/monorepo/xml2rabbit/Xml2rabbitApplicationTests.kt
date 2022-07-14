@@ -1,4 +1,4 @@
-package com.example.xml2rabbit
+package cib.learning.monorepo.xml2rabbit
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
